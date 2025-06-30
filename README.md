@@ -4,8 +4,12 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniharo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**carlosviniharo/carlosviniharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 🛠 Tech Stack
+
+<!-- Language -->
+![My Skills](https://skillicons.dev/icons?i=py,django,flask,js,php,react)
+
 
 Here are some ideas to get you started:
 
@@ -20,8 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-## 🛠 Tech Stack
-
-<!-- Language -->
-![My Skills](https://skillicons.dev/icons?i=py,django,flask,js,py)
