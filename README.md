@@ -28,6 +28,11 @@
 ### 🧰 Frameworks  
 ![Frameworks](https://skillicons.dev/icons?i=django,flask,react,nodejs)![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/carlos-haro-araguillin-70b985171/)
+
+              
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
