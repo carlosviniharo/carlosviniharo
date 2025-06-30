@@ -8,8 +8,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosviniharo&show_icons=true&theme=tokyonight&layout=compact" style="width: 440px; max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniharo&show_icons=true&theme=tokyonight&layout=compact" style="width: 335px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosviniharo&show_icons=true&theme=tokyonight&layout=compact" style="width: 420px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniharo&show_icons=true&theme=tokyonight&layout=compact" style="width: 320px; max-width: 100%;" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosviniharo&theme=tokyonight" style="width: 90%; max-width: 900px; height: auto;" />
 
