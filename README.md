@@ -21,8 +21,12 @@
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=py,django,flask,js,php,react)
 
+### 💻 Languages  
+![Languages](https://skillicons.dev/icons?i=py,js,php,c,java)![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🧰 Frameworks  
+![Frameworks](https://skillicons.dev/icons?i=django,flask,react,nodejs)![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
