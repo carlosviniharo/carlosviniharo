@@ -3,6 +3,10 @@
 </div>
 
 ## 🧑‍💻 About Me
+<div id="header" align="justify">
+  <t1> Software Developer with 5+ years of experience in backend systems, cloud infrastructure (AWS, Docker, Jenkins), and database architecture. Skilled in building distributed apps, automating pipelines, and optimizing SQL/NoSQL performance. Experienced in NLP/chatbots (Rasa, BERT), low-level networking (TCP/IP, CANBus), and system integration. Well-versed in Agile and Waterfall SDLC models, with a proven track record delivering production-grade software in cross-functional teams across the UK, Canada, and Ecuador.
+</t1>
+</div>
 
 ## 📊 Stats
 
