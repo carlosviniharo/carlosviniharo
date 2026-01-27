@@ -12,13 +12,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosviniharo&show_icons=true&theme=tokyonight&layout=compact" style="width: 420px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosviniharo&show_icons=true&theme=gruvbox&layout=compact" style="width: 420px; max-width: 100%;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniharo&show_icons=true&theme=tokyonight&layout=compact&count_private=false" style="width: 320px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniharo&show_icons=true&theme=gruvbox&layout=compact&count_private=false&langs_count=6" style="width: 320px; max-width: 100%;" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosviniharo&theme=tokyonight" style="width: 90%; max-width: 900px; height: auto;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosviniharo&theme=gruvbox" style="width: 90%; max-width: 900px; height: auto;" />
 
 </div>
+
 ## 🛠 Tech Stack
 
 
