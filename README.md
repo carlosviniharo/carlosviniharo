@@ -12,11 +12,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosviniharo&show_icons=true&theme=gruvbox&layout=compact" style="width: 420px; max-width: 100%;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniharo&show_icons=true&theme=gruvbox&layout=compact&count_private=false&langs_count=6" style="width: 320px; max-width: 100%;" />
+   <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=carlosviniharo&show_icons=true&theme=gruvbox" style="width:420px; max-width:100%;" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosviniharo&theme=gruvbox" style="width: 90%; max-width: 900px; height: auto;" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=carlosviniharo&layout=compact&theme=gruvbox&langs_count=6" style="width:320px; max-width:100%;" />
+  
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosviniharo&theme=gruvbox" style="width:90%;max-width:900px;height:auto;" />
 
 </div>
 
